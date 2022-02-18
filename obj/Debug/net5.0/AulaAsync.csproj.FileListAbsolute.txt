@@ -1,0 +1,16 @@
+C:\Users\leonardo.tavares\Desktop\AulaAsync\AulaAsync\obj\Debug\net5.0\AulaAsync.csproj.AssemblyReference.cache
+C:\Users\leonardo.tavares\Desktop\AulaAsync\AulaAsync\obj\Debug\net5.0\AulaAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.tavares\Desktop\AulaAsync\AulaAsync\obj\Debug\net5.0\AulaAsync.AssemblyInfoInputs.cache
+C:\Users\leonardo.tavares\Desktop\AulaAsync\AulaAsync\obj\Debug\net5.0\AulaAsync.AssemblyInfo.cs
+C:\Users\leonardo.tavares\Desktop\AulaAsync\AulaAsync\obj\Debug\net5.0\AulaAsync.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.tavares\Desktop\AulaAsync\AulaAsync\bin\Debug\net5.0\AulaAsync.exe
+C:\Users\leonardo.tavares\Desktop\AulaAsync\AulaAsync\bin\Debug\net5.0\AulaAsync.deps.json
+C:\Users\leonardo.tavares\Desktop\AulaAsync\AulaAsync\bin\Debug\net5.0\AulaAsync.runtimeconfig.json
+C:\Users\leonardo.tavares\Desktop\AulaAsync\AulaAsync\bin\Debug\net5.0\AulaAsync.runtimeconfig.dev.json
+C:\Users\leonardo.tavares\Desktop\AulaAsync\AulaAsync\bin\Debug\net5.0\AulaAsync.dll
+C:\Users\leonardo.tavares\Desktop\AulaAsync\AulaAsync\bin\Debug\net5.0\ref\AulaAsync.dll
+C:\Users\leonardo.tavares\Desktop\AulaAsync\AulaAsync\bin\Debug\net5.0\AulaAsync.pdb
+C:\Users\leonardo.tavares\Desktop\AulaAsync\AulaAsync\obj\Debug\net5.0\AulaAsync.dll
+C:\Users\leonardo.tavares\Desktop\AulaAsync\AulaAsync\obj\Debug\net5.0\ref\AulaAsync.dll
+C:\Users\leonardo.tavares\Desktop\AulaAsync\AulaAsync\obj\Debug\net5.0\AulaAsync.pdb
+C:\Users\leonardo.tavares\Desktop\AulaAsync\AulaAsync\obj\Debug\net5.0\AulaAsync.genruntimeconfig.cache
